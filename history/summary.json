@@ -4,16 +4,16 @@
     "url": "https://abs.fiestawolf.us",
     "icon": "https://icons.duckduckgo.com/ip3/abs.fiestawolf.us.ico",
     "slug": "audio-book-shelf",
-    "status": "up",
-    "uptime": "12.29%",
-    "uptimeDay": "98.26%",
+    "status": "down",
+    "uptime": "12.24%",
+    "uptimeDay": "52.33%",
     "uptimeWeek": "14.72%",
     "uptimeMonth": "4.77%",
-    "uptimeYear": "12.29%",
+    "uptimeYear": "12.24%",
     "time": 103,
-    "timeDay": 491,
-    "timeWeek": 210,
-    "timeMonth": 96,
+    "timeDay": 82,
+    "timeWeek": 201,
+    "timeMonth": 97,
     "timeYear": 103,
     "dailyMinutesDown": {
       "2026-05-06": 237,
@@ -129,7 +129,9 @@
       "2026-05-22": 1440,
       "2026-05-21": 1440,
       "2026-05-20": 395,
-      "2026-07-04": 1040
+      "2026-07-04": 1040,
+      "2026-07-06": 261,
+      "2026-07-05": 425
     }
   },
   {
@@ -144,9 +146,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 96,
-    "timeDay": 53,
-    "timeWeek": 72,
-    "timeMonth": 78,
+    "timeDay": 112,
+    "timeWeek": 80,
+    "timeMonth": 80,
     "timeYear": 96,
     "dailyMinutesDown": {}
   }
