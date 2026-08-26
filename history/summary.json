@@ -130,7 +130,7 @@
       "2026-05-21": 1440,
       "2026-05-20": 395,
       "2026-07-04": 1040,
-      "2026-08-26": 95,
+      "2026-08-26": 109,
       "2026-08-25": 1440,
       "2026-08-24": 1440,
       "2026-08-23": 1440,
@@ -192,15 +192,17 @@
     "slug": "google",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.01%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 96,
     "timeDay": 413,
     "timeWeek": 175,
     "timeMonth": 107,
     "timeYear": 96,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-08-26": 14
+    }
   }
 ]
